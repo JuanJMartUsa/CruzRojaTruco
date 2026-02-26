@@ -1,0 +1,334 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 24
+  productGUID: 4d3a1a2b3c4d5e6f7a8b9c0d1e2f3a4b
+  AndroidProfiler: 0
+  AndroidFilterTouchesWhenObscured: 0
+  AndroidEnableSustainedPerformanceMode: 0
+  defaultScreenOrientation: 4
+  targetDevice: 2
+  useOnDemandResources: 0
+  accelerometerFrequency: 60
+  companyName: DefaultCompany
+  productName: CruzRojaTruco
+  defaultCursor: {fileID: 0}
+  cursorHotspot: {x: 0, y: 0}
+  m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
+  m_ShowUnitySplashScreen: 1
+  m_ShowUnitySplashLogo: 1
+  m_SplashScreenOverlayOpacity: 1
+  m_SplashScreenAnimation: 1
+  m_SplashScreenLogoStyle: 1
+  m_SplashScreenDrawMode: 0
+  m_SplashScreenBackgroundAnimationZoom: 1
+  m_SplashScreenLogoAnimationZoom: 1
+  m_SplashScreenBackgroundLandscapeAspect: 1
+  m_SplashScreenBackgroundPortraitAspect: 1
+  m_SplashScreenBackgroundLandscapeUvs:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  m_SplashScreenBackgroundPortraitUvs:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  m_SplashScreenLogos: []
+  m_VirtualRealitySplashScreen: {fileID: 0}
+  m_HolographicTrackingLossScreen: {fileID: 0}
+  defaultScreenWidth: 1920
+  defaultScreenHeight: 1080
+  defaultScreenWidthWeb: 960
+  defaultScreenHeightWeb: 600
+  m_StereoRenderingPath: 0
+  m_ActiveColorSpace: 1
+  m_MTRendering: 1
+  mipStripping: 0
+  numberOfMipsStripped: 0
+  numberOfMipsStrippedPerMipmapLimitGroup: {}
+  m_StackTraceTypes: 010000000100000001000000010000000100000001000000
+  iosShowActivityIndicatorOnLoading: -1
+  androidShowActivityIndicatorOnLoading: -1
+  iosUseCustomAppBackgroundBehavior: 0
+  iosAllowHTTP: 0
+  allowedAutorotateToPortrait: 1
+  allowedAutorotateToPortraitUpsideDown: 1
+  allowedAutorotateToLandscapeRight: 1
+  allowedAutorotateToLandscapeLeft: 1
+  useOSAutorotation: 1
+  use32BitDisplayBuffer: 1
+  preserveFramebufferAlpha: 0
+  disableDepthAndStencilBuffers: 0
+  androidStartInFullscreen: 1
+  androidRenderOutsideSafeArea: 1
+  androidUseSwappy: 1
+  androidBlitType: 0
+  androidResizableWindow: 0
+  androidDefaultWindowWidth: 1920
+  androidDefaultWindowHeight: 1080
+  androidMinimumWindowWidth: 400
+  androidMinimumWindowHeight: 300
+  androidFullscreenMode: 1
+  defaultIsNativeResolution: 1
+  macRetinaSupport: 1
+  runInBackground: 1
+  captureSingleScreen: 0
+  muteOtherAudioSources: 0
+  Prepare IOS For Recording: 0
+  Force IOS Speakers When Recording: 0
+  deferSystemGesturesMode: 0
+  hideHomeButton: 0
+  submitAnalytics: 1
+  usePlayerLog: 1
+  bakeCollisionMeshes: 0
+  forceSingleInstance: 0
+  useFlipModelSwapchain: 1
+  resizableWindow: 0
+  useMacAppStoreValidation: 0
+  macAppStoreCategory: public.app-category.games
+  gpuSkinning: 0
+  xboxPIXTextureCapture: 0
+  xboxEnableAvatar: 0
+  xboxEnableKinect: 0
+  xboxEnableKinectAutoTracking: 0
+  xboxEnableFitness: 0
+  visibleInBackground: 1
+  allowFullscreenSwitch: 1
+  fullscreenMode: 1
+  xboxSpeechDB: 0
+  xboxEnableHeadOrientation: 0
+  xboxEnableGuest: 0
+  xboxEnableKinectGreenScreen: 0
+  psp2PowerMode: 0
+  cameraUsageDescription:
+  locationUsageDescription:
+  microphoneUsageDescription:
+  bluetoothUsageDescription:
+  switchNMeta: 0
+  switchNetworkInterfaceManagerInitializeSelf: 0
+  switchPlayerConnectionEnabled: 1
+  switchAllowGpuScratchpad: 0
+  switchShaderReplaceTypeForSystem: 0
+  switchQueueCommandMemory: 0
+  switchQueueControlMemory: 16384
+  switchQueueComputeMemory: 8
+  switchNVNShaderPoolsGranularity: 33554432
+  switchNVNDefaultPoolsGranularity: 16777216
+  switchNVNOtherPoolsGranularity: 16777216
+  switchNVNMaxPublicTextureIDCount: 0
+  switchNVNMaxPublicSamplerIDCount: 0
+  switchNVNGraphicsFirmwareMemory: 8
+  stadiaPresentMode: 0
+  stadiaTargetFramerate: 0
+  vulkanEnableSetSRGBWrite: 0
+  vulkanNumSwapchainBuffers: 3
+  vulkanEnableLateAcquireNextImage: 0
+  vulkanEnableCommandBufferRecycling: 1
+  m_SupportedAspectRatios:
+    4:3: 1
+    5:4: 1
+    16:10: 1
+    16:9: 1
+    Others: 1
+  bundleVersion: 0.1
+  preloadedAssets: []
+  metroInputSource: 0
+  wsaTransparentSwapchain: 0
+  m_HolographicPauseOnTrackingLoss: 1
+  xboxOneDisableKinectGpuReservation: 1
+  xboxOneEnable7thCore: 1
+  vrSettings:
+    cardboard:
+      depthFormat: 0
+      enableTransitionView: 0
+    daydream:
+      depthFormat: 0
+      useSustainedPerformanceMode: 0
+      enableVideoLayer: 0
+      useProtectedVideoMemory: 0
+      minimumSupportedHeadTracking: 0
+      maximumSupportedHeadTracking: 1
+    hololens:
+      depthFormat: 1
+      depthBufferSharingEnabled: 1
+    lumin:
+      depthFormat: 0
+      frameTiming: 0
+      groundPlane: 1
+    mock:
+      stereoRenderingMode: 0
+  isWsaHolographicRemotingEnabled: 0
+  enableFrameTimingStats: 0
+  enableOpenGLProfilerGPURecorders: 1
+  useHDRDisplay: 0
+  hdrBitDepth: 0
+  m_ColorGamuts: 00000000
+  targetPixelDensity: 30
+  resolutionScalingMode: 0
+  resetResolutionOnWindowResize: 0
+  androidSupportedAspectRatio: 1
+  androidMaxAspectRatio: 2.1
+  applicationIdentifier:
+    Standalone: com.DefaultCompany.CruzRojaTruco
+    iPhone: com.DefaultCompany.CruzRojaTruco
+    tvOS: com.DefaultCompany.CruzRojaTruco
+    Android: com.DefaultCompany.CruzRojaTruco
+    WebGL: com.DefaultCompany.CruzRojaTruco
+    WSAPlayer: com.DefaultCompany.CruzRojaTruco
+    PS4: com.DefaultCompany.CruzRojaTruco
+    XboxOne: com.DefaultCompany.CruzRojaTruco
+    PS5: com.DefaultCompany.CruzRojaTruco
+    Switch: com.DefaultCompany.CruzRojaTruco
+    Stadia: com.DefaultCompany.CruzRojaTruco
+    LinuxHeadlessSimulation: com.DefaultCompany.CruzRojaTruco
+    GameCoreXboxSeries: com.DefaultCompany.CruzRojaTruco
+    GameCoreXboxOne: com.DefaultCompany.CruzRojaTruco
+    EmbeddedLinux: com.DefaultCompany.CruzRojaTruco
+    QNX: com.DefaultCompany.CruzRojaTruco
+    VisionOS: com.DefaultCompany.CruzRojaTruco
+  buildNumber:
+    Standalone: 0
+    iPhone: 0
+    tvOS: 0
+    Android: 0
+    EmbeddedLinux: 0
+    VisionOS: 0
+    QNX: 0
+  AndroidBundleVersionCode: 1
+  AndroidMinSdkVersion: 22
+  AndroidTargetSdkVersion: 0
+  AndroidPreferredInstallLocation: 1
+  aotOptions:
+  iPhoneSdkVersion: 988
+  iOSTargetOSVersionString: 12.0
+  tvOSSdkVersion: 0
+  tvOSRequireExtendedGameController: 0
+  tvOSTargetOSVersionString: 12.0
+  uIFileSharingEnabled: 0
+  uIStatusBarHidden: 1
+  uIExitOnSuspend: 0
+  uIViewControllerBasedStatusBarAppearance: 1
+  iPhoneSplashScreen: {fileID: 0}
+  iPhoneHighResSplashScreen: {fileID: 0}
+  iPhoneTallHighResSplashScreen: {fileID: 0}
+  iPhone47inHighResSplashScreen: {fileID: 0}
+  iPhone55inPortraitSplashScreen: {fileID: 0}
+  iPhone55inLandscapeSplashScreen: {fileID: 0}
+  iPhone58inPortraitSplashScreen: {fileID: 0}
+  iPhone58inLandscapeSplashScreen: {fileID: 0}
+  iPadPortraitSplashScreen: {fileID: 0}
+  iPadHighResPortraitSplashScreen: {fileID: 0}
+  iPadLandscapeSplashScreen: {fileID: 0}
+  iPadHighResLandscapeSplashScreen: {fileID: 0}
+  iPhone65inPortraitSplashScreen: {fileID: 0}
+  iPhone65inLandscapeSplashScreen: {fileID: 0}
+  iPhone61inPortraitSplashScreen: {fileID: 0}
+  iPhone61inLandscapeSplashScreen: {fileID: 0}
+  iPhone67inPortraitSplashScreen: {fileID: 0}
+  iPhone67inLandscapeSplashScreen: {fileID: 0}
+  iPhone67in3PortraitSplashScreen: {fileID: 0}
+  iPhone67in3LandscapeSplashScreen: {fileID: 0}
+  ipadPro129inPortraitSplashScreen: {fileID: 0}
+  ipadPro129inLandscapeSplashScreen: {fileID: 0}
+  ipadPro11inPortraitSplashScreen: {fileID: 0}
+  ipadPro11inLandscapeSplashScreen: {fileID: 0}
+  androidSplashScreen: {fileID: 0}
+  androidKeystoreName:
+  androidKeyaliasName:
+  androidBuildApkPerCpuArchitecture: 0
+  androidUseCustomKeystore: 0
+  m_AndroidKeystorePath:
+  m_AndroidKeyaliasName:
+  androidSplashScreenScale: 0
+  androidSplashScreenResizingMode: 0
+  m_BuildTargetIcons: []
+  m_BuildTargetPlatformIcons: []
+  m_BuildTargetBatching: []
+  m_BuildTargetGraphicsJobs:
+  - m_BuildTarget: Switch
+    m_GraphicsJobs: 1
+  m_BuildTargetGraphicsJobMode: []
+  m_BuildTargetGraphicsAPIs:
+  - m_BuildTarget: iOSSupport
+    m_APIs: 10000000
+    m_Automatic: 0
+  - m_BuildTarget: AndroidPlayer
+    m_APIs: 150000000b000000
+    m_Automatic: 0
+  m_BuildTargetVRSettings: []
+  m_DefaultShaderChunkSizeInMB: 16
+  openGLRequireES31: 0
+  openGLRequireES31AEP: 0
+  openGLRequireES32: 0
+  m_TemplateCustomTags: {}
+  mobileMTRendering:
+    Android: 1
+    iPhone: 1
+    tvOS: 1
+  m_BuildTargetGroupLightmapEncodingQuality: []
+  m_BuildTargetGroupHDRCubemapEncodingQuality: []
+  m_BuildTargetGroupLoadStoreControl: []
+  m_BuildTargetNormalMapEncoding: []
+  m_BuildTargetDefaultTextureCompressionFormat: []
+  playModeTestRunnerEnabled: 0
+  actionOnDotNetUnhandledException: 1
+  enableInternalProfiler: 0
+  logObjCUncaughtExceptions: 1
+  enableCrashReportAPI: 0
+  cameraUsageDescriptionDep: ''
+  locationUsageDescriptionDep: ''
+  microphoneUsageDescriptionDep: ''
+  bluetoothUsageDescriptionDep: ''
+  androidTargetArchitectures: 1
+  androidTargetDevices: 0
+  androidSdkVersion: 0
+  androidNdkVersion: 0
+  androidCodeOptimization: 0
+  androidRenderingAPI: 0
+  androidMaxNumChunkExtraMemory: 0
+  additionalIl2CppArgs:
+  scriptingDefineSymbols: {}
+  additionalCompilerArguments: {}
+  platformArchitecture: {}
+  scriptingBackend: {}
+  il2cppCompilerConfiguration: {}
+  il2cppCodeGeneration: {}
+  managedStrippingLevel: {}
+  playerDataPath:
+  forceSingleInstanceForEditorTests: 0
+  enableTestRunnerInAnyScene: 0
+  templatePackageId: com.unity.template.3d@3.0.0
+  templateDefaultScene: Assets/Scenes/MainMenu.unity
+  useNewInputSystem: 0
+  forceSampleRateSetting: 0
+  activeBuildTargetChanged: 0
+  virtualTexturingSupportEnabled: 0
+  shaderPrecisionModel: 0
+  insecureHttpOption: 0
+  allowUnsafeCode: 0
+  additionalShaderChannels: 0
+  additionalSkinningWeights: 0
+  userGeneratedContentOrganizationId:
+  userGeneratedContentUserId:
+  userGeneratedContentObjectId:
+  cloudProjectId:
+  framebufferDepthMemorylessMode: 0
+  markerID:
+  mipmapStripping: 0
+  numberOfMipsStripped: 0
+  m_RenderPipelineSettings: 1
+  m_OverrideDefaultRenderPipeline: 0
+  m_SpriteAtlasPackingSettings:
+    blockOffset: 1
+    enableRotation: 1
+    enableTightPacking: 1
+    enableAlphaDilation: 0
+    padding: 4
+  m_DefaultRenderPipeline: {fileID: 11400000, guid: 4508580b0c674014898e9e4b4e38e0c7, type: 2}
+  m_TemplateName: 3D (URP)
